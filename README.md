@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Hanish K R!
 
-🎓 I'm a Computer Science Engineering student passionate about software development, machine learning, and solving real-world problems through technology.
+🎓 CSE | 💡 Innovator | 🤖 AI Enthusiast | 🔍 Problem Solver
 
 ## 🔧 Technologies & Tools
 - 💻 Programming: Python, Java, Kotlin, C++

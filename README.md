@@ -17,7 +17,6 @@
 ## 📫 Let's Connect
 - 📧 Email: [hanish232004@gmail.com]
 - 💼 LinkedIn: https://www.linkedin.com/in/hanish-k-r-8402b0226/
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
 
 ---
 

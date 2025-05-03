@@ -4,7 +4,7 @@
 
 ## 🔧 Technologies & Tools
 - 💻 Programming: Python, Java, Kotlin, C++
-- 🌐 Web: HTML, CSS, JavaScript, Tailwind CSS
+- 🌐 Web: HTML, CSS, JavaScript, Tailwind CSS , React Js
 - 📱 Mobile: Android Studio (Kotlin)
 - 🧠 Machine Learning: TensorFlow, FastAI, Scikit-learn
 - 🔍 Tools: Git, GitHub, OpenCV

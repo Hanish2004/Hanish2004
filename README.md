@@ -15,7 +15,7 @@
 - 🐍 **Face Attendance System** – Combines FaceNet, ResNet-34, and SSD for spoof-resistant recognition
 
 ## 📫 Let's Connect
-- 📧 Email: [hanish232004@gmail.com]
+- 📧 Email: hanish232004@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/hanish-k-r-8402b0226/
 
 ---

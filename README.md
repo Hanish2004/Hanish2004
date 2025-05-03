@@ -11,16 +11,11 @@
 
 ## 📌 Projects Highlights
 - 🧿 **ANSAN** – A Glaucoma Detection System using InceptionV3, presented at IEEE ICCCNT 2024
-- 📲 **Task Manager App** – A Kotlin-based productivity app with task filtering and calendar integration
 - 🧪 **Plant Disease Classifier** – ResNet-50 based classifier using FastAI
 - 🐍 **Face Attendance System** – Combines FaceNet, ResNet-34, and SSD for spoof-resistant recognition
 
-## 🌱 Currently Working On
-- A Gate Pass Management App
-- Vibration data analysis using traditional ML techniques
-
 ## 📫 Let's Connect
-- 📧 Email: [your-email@example.com]
+- 📧 Email: [hanish232004@gmail.com]
 - 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 - 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
 
